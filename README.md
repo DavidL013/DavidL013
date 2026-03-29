@@ -1,16 +1,24 @@
-## Hi there 👋
+# Fala, eu sou o David Lucas! 👋
 
-<!--
-**DavidL013/DavidL013** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou desenvolvedor Front End júnior baseado no Brasil.
 
-Here are some ideas to get you started:
+Gosto de transformar ideias em interfaces — se apareceu na cabeça, eu consigo construir na tela.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Meu stack principal é HTML, CSS, JavaScript, React e TypeScript. Fico obcecado com detalhes visuais, animações e fazer o código ficar limpo do jeito certo.
+
+Ainda estou construindo meu portfólio de projetos, mas a vontade de aprender e evoluir nunca para.
+
+Se quiser trocar uma ideia ou colaborar em algo, me chama no LinkedIn 👇
+
+---
+
+**Links:**
+- LinkedIn: https://www.linkedin.com/in/david-lucas1/
+- Portfólio: em breve
+
+---
+
+**Algumas coisas sobre mim:**
+- Apaixonado por UI/UX e experiência do usuário
+- Acredito que bom código é aquele que outros conseguem ler
+- Sempre estudando algo novo
