@@ -4,7 +4,7 @@ Sou desenvolvedor Front End júnior baseado no Brasil.
 
 Gosto de transformar ideias em interfaces — se apareceu na cabeça, eu consigo construir na tela.
 
-Meu stack principal é HTML, CSS, JavaScript, React e TypeScript. Fico obcecado com detalhes visuais, animações e fazer o código ficar limpo do jeito certo.
+Meu stack principal é HTML, CSS, JavaScript, React. Fico obcecado com detalhes visuais, animações e fazer o código ficar limpo do jeito certo.
 
 Ainda estou construindo meu portfólio de projetos, mas a vontade de aprender e evoluir nunca para.
 
