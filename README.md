@@ -14,7 +14,7 @@ Se quiser trocar uma ideia ou colaborar em algo, me chama no LinkedIn 👇
 
 **Links:**
 - LinkedIn: https://www.linkedin.com/in/david-lucas1/
-- Portfólio: em breve
+- Portfólio: https://portfolio-david-lucas.netlify.app/
 
 ---
 
